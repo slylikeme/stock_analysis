@@ -15,3 +15,5 @@ Uses datetime to plot stock prices(Open, Close, High, Low) along the x-axis.
 Days with positive gains are shown in green. Days with negative gains are shown in red.
 
 High and low prices are displayed as black segment line.
+
+Graphs are interactive with zooming and panning functionality, as well as ability to save to file and reset to original state.
