@@ -1,4 +1,7 @@
 # stock_analysis
+
+![ScreenShot](stock_analysis_example.png)
+
 Creates candlestick graph tracking stock prices over a given time frame
 
 Pulls data from Yahoo! Finance using pandas_datareader. This can be configured to use Google Finance if desired.
