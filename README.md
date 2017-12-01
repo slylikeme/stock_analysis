@@ -1,6 +1,6 @@
 # stock_analysis
 
-![ScreenShot](.\images\stock_analysis_example.png)
+![ScreenShot](stock_analysis_example.png)
 
 Creates candlestick graph tracking stock prices over a given time frame.
 
