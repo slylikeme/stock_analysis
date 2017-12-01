@@ -78,7 +78,7 @@ s2.rect(df2.index[df2.Status == "Decrease"], df2.Middle[df2.Status == "Decrease"
 p = column(s1, s2)
 
 # write to html file
-output_file("GoogleVsAppleStock.html")
+output_file("StockComparison.html")
 
 # display html file
 show(p)
